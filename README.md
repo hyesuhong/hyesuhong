@@ -20,7 +20,7 @@
 	<code><img src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code" width="30"></code>
 </div>
 
----
+<!-- ---
 
 <h3 align="center">💥 Stats 💥</h3>
 <div align="center">
@@ -31,3 +31,4 @@
 		<img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=hyesuhong&layout=donut&theme=material-palenight" alt="Top Langs" height="200">
 	</a>
 </div>
+-->
