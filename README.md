@@ -24,9 +24,9 @@
 
 <h3 align="center">💥 Stats 💥</h3>
 <div align="center">
-	<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats-hyesuhong.vercel.app/api?username=hyesuhong&theme=material-palenight" alt="Hyesu's GitHub stats" height="200">
-	</a>-->
+	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats-hyesuhong.vercel.app/api/top-langs/?username=hyesuhong&layout=donut&theme=material-palenight" alt="Top Langs" height="200">
 	</a>
