@@ -1,33 +1,25 @@
-<!-- <h1 align="center">Welcome to Hyesu's Github 👋</h1> -->
-<div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=9747FF&center=true&vCenter=true&width=435&lines=Welcome+to+Hyesu's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
-</div>
+## Welcome to Hyesu's Github ✨
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools 🛠️</h3>
-<div align="center">
-	<code><img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="30"></code>
-	<code><img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="30"></code>
-	<code><img src="https://cdn.simpleicons.org/javascript" alt="Javascript" width="30"></code>
-	<code><img src="https://cdn.simpleicons.org/typescript" alt="Typescript" width="30"></code>
-	<code><img src="https://cdn.simpleicons.org/react" alt="ReactJS" width="30"></code>
-	<code><img src="https://cdn.simpleicons.org/reactrouter" alt="react-router-dom" width="30"></code>
-	<code><img src="https://cdn.simpleicons.org/styledcomponents" alt="styled-components" width="30"></code>
-	<br/>
-	<code><img src="https://cdn.simpleicons.org/git" alt="Git" width="30"></code>
-	<code><img src="https://cdn.simpleicons.org/github/fff" alt="Github" width="30"></code>
-	<code><img src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code" width="30"></code>
-</div>
+### Languages & Tools
 
----
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Nextdotjs&logoColor=white)
 
-<h3 align="center">💥 Stats 💥</h3>
-<div align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats-kappa.vercel.app/api?username=hyesuhong&theme=material-palenight" alt="Hyesu's GitHub stats" height="200">
-	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=hyesuhong&layout=donut&theme=material-palenight" alt="Top Langs" height="200">
-	</a>
-</div>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+
+![styled-components](https://img.shields.io/badge/Styled_components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![vanilla-extract](https://img.shields.io/badge/Vanilla--extract-C951E7?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA70lEQVR4nO3WTwqBQRiAcSLFRg4gS+USLmBl5w7iBLL9xDUIC45gz8qOlQ1WIsoC5dFXX2yYGeZ7lT/Pfvo1M2/NBAKfFJACNkAXyLwLDQIdbp2A6jvgCvcrSqJ54PwAnkvCM/QtAAeI2EARoAYseT7HBnZeAK87t4EX2LUD+kDaBMsBQ+CAf62BpA6VqquCR4LwVgXvBeGVCh4Lwm3tgP1OwFTwqCcquCEI11VwVhDOquCQO/YC6BoI6+65JQA3TQasIAAXTOA4cPQRdf9kCS3s4QMf4YER6sElH+HyM3DMe8Btjtxd2wOixvC/r+oCgt6RlRl0FWsAAAAASUVORK5CYII=)
+![react-router-dom](https://img.shields.io/badge/React--router--dom-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![tanstack-query](https://img.shields.io/badge/Tanstack_Query-000000?style=flat-square)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
